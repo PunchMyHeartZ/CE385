@@ -1,5 +1,3 @@
-// Workshop 1 · ข้อที่ 6 — ระบบตรวจสอบสิทธิ์ (รวมทุกหัวข้อ)
-
 // ===== ข้อมูลที่ถูกต้องในระบบ =====
 const VALID_USERNAME = "admin";
 const VALID_PASSWORD = "ce385pass";

@@ -1,5 +1,3 @@
-// Workshop 1 · ข้อที่ 3 — เครื่องคิดเลขคะแนน CE385
-
 // ส่วนที่ 1: คะแนนดิบของแต่ละส่วน
 const workshopRaw = 48;   // เต็ม 60
 const attendance = 9;
